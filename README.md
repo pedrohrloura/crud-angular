@@ -1,5 +1,24 @@
 # Avaliação de desenvolvimento Angular
-## Concert Technologies
+### Concert Technologies
+## Quick Start
+### Backend
+- Instalando as dependência
+```
+npm install
+```
+- Iniciando o backend da aplicação
+```
+json-server --watch db.json --port 3001
+```
+### Frontend
+- Instalando as dependência
+```
+npm install
+```
+- Iniciando servidor para execução da aplicação em Angular
+```
+ng serve
+```
 ### Tela de login
 <img src="/frontend/src/assets/screenshot/login.png">
 
