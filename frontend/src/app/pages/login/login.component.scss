@@ -1,0 +1,20 @@
+
+.box {
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    max-height: 55px;
+    margin-bottom: 40px;
+}
