@@ -1,2 +1,0 @@
-Não apliquei o Lazy Load pois me atentei a este tópico após o términio do projeto.
-E para implementação seria necessário refatoraração completa do padrão de organização (modularizar a aplicação) e de rotas, e como o prazo já está no fim não iria dar tempo.
